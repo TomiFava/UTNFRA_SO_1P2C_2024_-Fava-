@@ -1,0 +1,4 @@
+Mi IP Pública es: 181.47.102.198
+Mi usuario es: osboxes
+El Hash de mi usuario es> 6ea853cb24c57d6c2d268a1fa0b6694e2bbb3391e170d855ef499e9f84ce8173
+La URL de mi repositorio es: https://github.com/TomiFava/UTNFRA_SO_1P2C_2024_-Fava-.git
